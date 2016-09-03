@@ -8,6 +8,8 @@
 
 #import "ViewController.h"
 
+#import "SVProgressHud.h"
+
 @interface ViewController ()
 
 @end
@@ -19,6 +21,8 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     self.view.backgroundColor = [UIColor redColor];
+    
+    [SVProgressHUD showInfoWithStatus:@"添加"];
 }
 
 - (void)didReceiveMemoryWarning {
