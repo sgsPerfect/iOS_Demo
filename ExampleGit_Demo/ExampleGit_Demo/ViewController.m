@@ -10,11 +10,8 @@
 
 #import "SVProgressHud.h"
 
-<<<<<<< Updated upstream
-=======
 #import "AFNetworking.h"
 
->>>>>>> Stashed changes
 @interface ViewController ()
 
 @end
@@ -26,16 +23,14 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     self.view.backgroundColor = [UIColor redColor];
-    
-<<<<<<< Updated upstream
+
     [SVProgressHUD showInfoWithStatus:@"添加"];
-=======
+
     [self showInfo];
 }
 
 - (void) showInfo {
     [SVProgressHUD showSuccessWithStatus:@"fkajdfajd"];
->>>>>>> Stashed changes
 }
 
 - (void)didReceiveMemoryWarning {
