@@ -9,6 +9,11 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>MZTimerLabel.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>Pods.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -22,7 +27,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>75211A3C80B67C9DC7BB552DE9D8C24B</key>
+		<key>0D0A05F38C3034DEC1E580B2478F8A7A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1DF2F0C77CC8DD76F130DDF31F4F210C</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -32,7 +42,7 @@
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>A24A668BF934C45CF306A85723BBDAF9</key>
+		<key>B180241C64C8328694E67BDDD9D432E2</key>
 		<dict>
 			<key>primary</key>
 			<true/>

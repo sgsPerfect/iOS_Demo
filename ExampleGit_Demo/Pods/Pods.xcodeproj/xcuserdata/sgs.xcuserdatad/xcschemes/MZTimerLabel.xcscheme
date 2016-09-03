@@ -14,10 +14,10 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '0BBB5E9D6EF5EC1F3B84695C'
-               BlueprintName = 'Pods'
+               BlueprintIdentifier = 'E6985CF2B35EE7D116FF819C'
+               BlueprintName = 'MZTimerLabel'
                ReferencedContainer = 'container:Pods.xcodeproj'
-               BuildableName = 'libPods.a'>
+               BuildableName = 'libMZTimerLabel.a'>
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
